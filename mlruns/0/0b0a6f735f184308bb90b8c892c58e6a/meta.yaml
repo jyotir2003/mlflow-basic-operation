@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow%20test/mlruns/0/0b0a6f735f184308bb90b8c892c58e6a/artifacts
+end_time: 1710590131498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b0a6f735f184308bb90b8c892c58e6a
+run_name: bemused-cod-236
+run_uuid: 0b0a6f735f184308bb90b8c892c58e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710590112638
+status: 3
+tags: []
+user_id: acer

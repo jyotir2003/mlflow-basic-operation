@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow%20test/mlruns/0/602c7b870e54499ab4d29be67af6733a/artifacts
+end_time: 1710587742705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 602c7b870e54499ab4d29be67af6733a
+run_name: melodic-tern-200
+run_uuid: 602c7b870e54499ab4d29be67af6733a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710587723613
+status: 3
+tags: []
+user_id: acer

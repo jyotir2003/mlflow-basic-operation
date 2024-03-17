@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow%20test/mlruns/0/fd7aa615267d4b408aca905c2eae3bba/artifacts
+end_time: 1710587742706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd7aa615267d4b408aca905c2eae3bba
+run_name: puzzled-eel-22
+run_uuid: fd7aa615267d4b408aca905c2eae3bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710587723613
+status: 3
+tags: []
+user_id: acer
